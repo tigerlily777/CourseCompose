@@ -1,9 +1,3 @@
-# 【不是开源项目】扔物线 Compose 课程源码
-
-课程地址：[Jetpack Compose：从上手到进阶再到高手](http://url.rengwuxian.com/02)
-
-[![封面图](./images/Compose-Cover.png)](http://url.rengwuxian.com/02)
-
 # 源码导航
 
 * 1-两小时用 Compose 写个聊天界面：[https://github.com/rengwuxian/WeCompose](https://github.com/rengwuxian/WeCompose) ——这是唯一有独立仓库的代码，因为它可以作为开源项目存在。后面每个课节的代码都在本仓库中的不同目录下，而不再为它们各自单独建立代码仓库。
@@ -47,12 +41,3 @@
 * 7.3.4-自定义触摸：多指手势：[./CourseComposeDetectTransformGestures](./CourseComposeDetectTransformGestures)
 * 7.3.5-自定义触摸：最底层的 100% 自定义触摸算法：[./CourseComposeCustomTouch](./CourseComposeCustomTouch)
 * 8.1-和传统的 View 系统混用：[./CourseComposeWithViews](./CourseComposeWithViews)
-
-# 使用方式
-- 第一节【1-两小时用 Compose 写个聊天界面】：点开上面第一节的链接，把 WeCompose 仓库 clone 到本地就行了。
-  ![WeCompose](./images/WeCompose.png)
-  
-- 其他节：
-  1. 把本仓库（对，就是这个仓库）clone 到本地。这个仓库里包含了除第一节以外所有节的教案。
-  2. 用 Android Studio 打开对应课节的目录。
-    ![CourseCompose 目录](./images/CourseCompose-目录.png)
