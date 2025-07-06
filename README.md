@@ -1,7 +1,7 @@
 # 源码导航
 
 * 1-两小时用 Compose 写个聊天界面：[https://github.com/rengwuxian/WeCompose](https://github.com/rengwuxian/WeCompose) ——这是唯一有独立仓库的代码，因为它可以作为开源项目存在。后面每个课节的代码都在本仓库中的不同目录下，而不再为它们各自单独建立代码仓库。
-* 2.1 button https://github.com/tigerlily777/DailyCheckIn/wiki/Button-in-compose 
+* 008-button https://github.com/tigerlily777/DailyCheckIn/wiki/Button-in-compose 
 * 4.1-状态转移型动画 animateXxxAsState()：[./CourseComposeAnimateAsState](./CourseComposeAnimateAsState)
 * 4.2-流程定制型动画 Animatable 和 LaunchedEffect()：[./CourseComposeAnimatable](./CourseComposeAnimatable)
 * 4.3-动画的详细配置 AnimationSpec：[./CourseComposeAnimationSpec](./CourseComposeAnimationSpec)
